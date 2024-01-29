@@ -1,0 +1,2 @@
+const ADD_NEW_ELEMENT = "ADD_NEW_ELEMENT";
+export default ADD_NEW_ELEMENT;
